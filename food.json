@@ -2219,10 +2219,10 @@
     "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/food/3d/stir fried tomato egg_thumb.webp"
   },
   {
-    "name": "strawberry banana crepe",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/food/2d/strawberry banana crepe.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/food/2d/strawberry banana crepe_thumb.webp",
-    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/food/3d/strawberry banana crepe.png",
+    "name": "stradiwberry banana crepe",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/food/2d/stradiwberry banana crepe.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/food/2d/stradiwberry banana crepe_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/food/3d/stradiwberry banana crepe.png",
     "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/food/3d/strawberry banana crepe_thumb.webp"
   },
   {
@@ -2399,13 +2399,6 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/food/2d/tortilla_thumb.webp",
     "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/food/3d/tortilla.png",
     "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/food/3d/tortilla_thumb.webp"
-  },
-  {
-    "name": "traditional drum",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/food/2d/traditional drum.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/food/2d/traditional drum_thumb.webp",
-    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/food/3d/traditional drum.png",
-    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/food/3d/traditional drum_thumb.webp"
   },
   {
     "name": "tropical drink",
