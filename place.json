@@ -1,10 +1,10 @@
 [
   {
-    "name": "itsukushima",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/place/2d/itsukushima.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/place/2d/itsukushima_thumb.webp",
-    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/place/3d/itsukushima.png",
-    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/place/3d/itsukushima_thumb.webp",
+    "name": "Itsukushima",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/place/2d/Itsukushima.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/place/2d/Itsukushima_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/place/3d/Itsukushima.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/place/3d/Itsukushima_thumb.webp",
     "tags": [
       "landmark",
       "명소",
@@ -207,11 +207,11 @@
     ]
   },
   {
-    "name": "berlin TV tower",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/place/2d/berlin%20TV%20tower.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/place/2d/berlin%20TV%20tower_thumb.webp",
-    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/place/3d/berlin%20TV%20tower.png",
-    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/place/3d/berlin%20TV%20tower_thumb.webp",
+    "name": "berlin tv tower",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/place/2d/berlin%20tv%20tower.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/place/2d/berlin%20tv%20tower_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/place/3d/berlin%20tv%20tower.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/place/3d/berlin%20tv%20tower_thumb.webp",
     "tags": [
       "palace",
       "castle",
