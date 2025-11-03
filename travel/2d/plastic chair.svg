@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f94239;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #b21d00;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="23" y="30.5" width="54" height="32"/>
+  <g>
+    <path class="cls-1" d="M31.41,39.82c.17-2.43,2.29-4.32,4.84-4.32h27.5c2.56,0,4.67,1.89,4.84,4.32l2.89,41.18h18.52l-6.21-53.16c-.59-5.04-4.86-8.84-9.93-8.84H26.14c-5.07,0-9.34,3.8-9.93,8.84l-6.21,53.16h18.52l2.89-41.18Z"/>
+    <rect class="cls-1" x="25" y="55.5" width="49" height="13"/>
+  </g>
+</svg>

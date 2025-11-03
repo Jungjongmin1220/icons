@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #474747;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #ebebeb;
+      }
+
+      .cls-3 {
+        fill: #f94239;
+      }
+
+      .cls-4 {
+        fill: #66d0ff;
+      }
+
+      .cls-5 {
+        fill: #3396ff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="17" y="10" width="66" height="80" rx="6" ry="6"/>
+  <rect class="cls-4" x="23" y="16" width="42" height="52.5"/>
+  <rect class="cls-5" x="23" y="61" width="42" height="8"/>
+  <rect class="cls-5" x="23" y="36" width="42" height="4"/>
+  <rect class="cls-5" x="39" y="22" width="10" height="14"/>
+  <rect class="cls-5" x="52" y="22" width="10" height="14"/>
+  <rect class="cls-5" x="26" y="22" width="10" height="14"/>
+  <rect class="cls-5" x="39" y="47" width="10" height="14"/>
+  <rect class="cls-5" x="52" y="47" width="10" height="14"/>
+  <rect class="cls-5" x="26" y="47" width="10" height="14"/>
+  <rect class="cls-1" x="23" y="74" width="42" height="10"/>
+  <rect class="cls-1" x="70" y="74" width="8" height="10"/>
+  <circle class="cls-2" cx="74" cy="65" r="3"/>
+  <circle class="cls-2" cx="74" cy="56" r="3"/>
+  <circle class="cls-2" cx="74" cy="47" r="3"/>
+</svg>

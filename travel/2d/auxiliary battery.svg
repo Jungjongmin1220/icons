@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #474747;
+      }
+
+      .cls-3 {
+        fill: #f94239;
+      }
+
+      .cls-4 {
+        fill: #e22727;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="22" y="17" width="56" height="66"/>
+  <rect class="cls-2" x="30" y="10" width="40" height="14"/>
+  <circle class="cls-2" cx="29" cy="17" r="7"/>
+  <circle class="cls-2" cx="71" cy="17" r="7"/>
+  <rect class="cls-3" x="30" y="76" width="40" height="14"/>
+  <circle class="cls-3" cx="29" cy="83" r="7"/>
+  <circle class="cls-3" cx="71" cy="83" r="7"/>
+  <circle class="cls-1" cx="71" cy="17" r="4"/>
+  <g>
+    <polygon class="cls-4" points="54.33 36 49.52 59.72 37 59.72 54.33 36"/>
+    <polygon class="cls-4" points="45.67 76 50.48 52.28 63 52.28 45.67 76"/>
+  </g>
+  <rect class="cls-1" x="29" y="14" width="12" height="6"/>
+  <rect class="cls-1" x="45" y="14" width="12" height="6"/>
+</svg>

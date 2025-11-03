@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5f5f5;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #8b8b8b;
+      }
+
+      .cls-3 {
+        fill: #ffb803;
+      }
+
+      .cls-4 {
+        fill: #ffc8a3;
+      }
+
+      .cls-5 {
+        fill: #ffc83b;
+      }
+
+      .cls-6 {
+        fill: #f94239;
+      }
+
+      .cls-7 {
+        fill: #b21d00;
+      }
+
+      .cls-8 {
+        fill: #f9b180;
+      }
+
+      .cls-9 {
+        fill: #ffd361;
+      }
+
+      .cls-10 {
+        fill: #ea8900;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="M23,50h46v40H18v-35c0-2.76,2.24-5,5-5Z"/>
+  <path class="cls-10" d="M29,50h40v40H24v-35c0-2.76,2.24-5,5-5Z"/>
+  <polygon class="cls-4" points="72 34 72 90 12 90 12 65.38 51.74 65.38 72 34"/>
+  <g>
+    <path class="cls-2" d="M24,66h32v6H18c0-3.31,2.69-6,6-6Z"/>
+    <polygon class="cls-2" points="61 72 69 41 61 41 53 72 61 72"/>
+  </g>
+  <path class="cls-4" d="M61,8h17c3.86,0,7,3.14,7,7v14c0,3.86-3.14,7-7,7h-17V8h0Z" transform="translate(51 95) rotate(-90)"/>
+  <polygon class="cls-4" points="73 34 62.15 72 47.56 72 59 34 73 34"/>
+  <path class="cls-4" d="M18.5,59h18.5v13h-18.5c-3.59,0-6.5-2.91-6.5-6.5h0c0-3.59,2.91-6.5,6.5-6.5Z"/>
+  <path class="cls-8" d="M33.29,59h35.56v13h-35.56c-3.52,0-6.38-2.86-6.38-6.38v-.24c0-3.52,2.86-6.38,6.38-6.38Z"/>
+  <path class="cls-8" d="M68,15h17c3.86,0,7,3.14,7,7h0c0,3.86-3.14,7-7,7h-17v-14h0Z" transform="translate(58 102) rotate(-90)"/>
+  <rect class="cls-6" x="55.64" y="16" width="15.36" height="15" rx="4" ry="4"/>
+  <polygon class="cls-8" points="87 34 76.15 72 61.56 72 73 34 87 34"/>
+  <polygon class="cls-8" points="87 34 87 90 27 90 27 65.38 66.74 65.38 87 34"/>
+  <path class="cls-9" d="M87,90h-51v-35c0-2.76,2.24-5,5-5h46v40Z"/>
+  <g>
+    <path class="cls-1" d="M43.5,88.5v-33.5c0-1.93,1.57-3.5,3.5-3.5h38.5v37h-42Z"/>
+    <path class="cls-5" d="M84,53v34h-39v-32c0-1.1.9-2,2-2h37M87,50h-40c-2.76,0-5,2.24-5,5v35h45v-40h0Z"/>
+  </g>
+  <rect class="cls-7" x="60.5" y="20.5" width="15" height="6" rx="3" ry="3" transform="translate(44.5 91.5) rotate(-90)"/>
+</svg>

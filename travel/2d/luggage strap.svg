@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #474747;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #197547;
+      }
+
+      .cls-3 {
+        fill: #ff3000;
+      }
+
+      .cls-4 {
+        fill: #ffcd4e;
+      }
+
+      .cls-5 {
+        fill: #ff7847;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="5" y="37" width="90" height="6.5"/>
+  <rect class="cls-5" x="5" y="43.5" width="90" height="6.5"/>
+  <rect class="cls-4" x="5" y="50" width="90" height="6.5"/>
+  <rect class="cls-2" x="5" y="56.5" width="90" height="6.5"/>
+  <polygon class="cls-1" points="65 63 65 37 70 37 70 31 30 31 30 37 35 37 35 63 30 63 30 69 70 69 70 63 65 63"/>
+</svg>

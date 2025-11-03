@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #474747;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #474747;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-5 {
+        stroke-width: 4px;
+      }
+
+      .cls-4 {
+        stroke-width: 3px;
+      }
+
+      .cls-5 {
+        stroke: #ebebeb;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="M38,19v-.1c0-3.81,3.09-6.9,6.9-6.9h10.2c3.81,0,6.9,3.09,6.9,6.9h0"/>
+  <polyline class="cls-5" points="62 18.5 62 43.5 38 43.5 38 18.61"/>
+  <rect class="cls-2" x="24" y="30" width="52" height="60" rx="10" ry="10"/>
+  <rect class="cls-1" x="30" y="56" width="40" height="29" rx="6" ry="6"/>
+  <path class="cls-1" d="M34.5,90h5v2.5c0,1.38-1.12,2.5-2.5,2.5h0c-1.38,0-2.5-1.12-2.5-2.5v-2.5h0Z"/>
+  <path class="cls-1" d="M62,90h5v2.5c0,1.38-1.12,2.5-2.5,2.5h0c-1.38,0-2.5-1.12-2.5-2.5v-2.5h0Z"/>
+  <line class="cls-4" x1="30" y1="66.03" x2="70" y2="66.03"/>
+</svg>

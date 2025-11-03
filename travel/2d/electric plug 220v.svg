@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ebebeb;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #dcdcdc;
+      }
+
+      .cls-3 {
+        fill: #ccc;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M33,65h8v26c0,2.21-1.79,4-4,4h0c-2.21,0-4-1.79-4-4v-26h0Z"/>
+  <path class="cls-1" d="M59,65h8v26c0,2.21-1.79,4-4,4h0c-2.21,0-4-1.79-4-4v-26h0Z"/>
+  <rect class="cls-3" x="33" y="68" width="8" height="14"/>
+  <rect class="cls-3" x="59" y="68" width="8" height="14"/>
+  <rect class="cls-3" x="46" y="5" width="8" height="20"/>
+  <rect class="cls-2" x="42" y="19" width="16" height="20"/>
+  <path class="cls-1" d="M45,25h10c11.04,0,20,8.96,20,20v30H25v-30c0-11.04,8.96-20,20-20Z"/>
+</svg>

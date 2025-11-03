@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #474747;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #ebebeb;
+      }
+
+      .cls-3 {
+        fill: #ff3000;
+      }
+
+      .cls-4 {
+        fill: #ccc;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #ff3000;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="69.41" y="30.72" width="7" height="8.75" transform="translate(46.17 -41.27) rotate(45)"/>
+  <rect class="cls-4" x="72.09" y="24.53" width="14" height="8.75" transform="translate(43.61 -47.46) rotate(45)"/>
+  <rect class="cls-1" x="46" y="20" width="8" height="10"/>
+  <g>
+    <path class="cls-2" d="M50,87c-15.99,0-29-13.01-29-29s13.01-29,29-29,29,13.01,29,29-13.01,29-29,29Z"/>
+    <path class="cls-4" d="M50,32c14.34,0,26,11.66,26,26s-11.66,26-26,26-26-11.66-26-26,11.66-26,26-26M50,26c-17.67,0-32,14.33-32,32s14.33,32,32,32,32-14.33,32-32-14.33-32-32-32h0Z"/>
+  </g>
+  <circle class="cls-3" cx="50" cy="58" r="5"/>
+  <rect class="cls-4" x="42" y="10" width="16" height="12"/>
+  <line class="cls-5" x1="50" y1="58" x2="64.5" y2="43.5"/>
+  <line class="cls-5" x1="50" y1="58.49" x2="39.26" y2="47.74"/>
+</svg>

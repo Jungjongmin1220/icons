@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5f5f5;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #ff9fe6;
+      }
+
+      .cls-3 {
+        fill: #bbb;
+      }
+
+      .cls-4 {
+        fill: #8b8b8b;
+      }
+
+      .cls-5 {
+        fill: #99e5ff;
+      }
+
+      .cls-6 {
+        fill: #f94239;
+      }
+
+      .cls-10 {
+        fill: none;
+        stroke: #bbb;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-7 {
+        fill: #66d0ff;
+      }
+
+      .cls-8 {
+        fill: #ffd4f6;
+      }
+
+      .cls-9 {
+        fill: #3396ff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="20.5" y="16.5" width="59" height="42"/>
+  <circle class="cls-5" cx="28" cy="56" r="9"/>
+  <circle class="cls-8" cx="70" cy="52" r="9"/>
+  <circle class="cls-8" cx="42" cy="52" r="9"/>
+  <circle class="cls-5" cx="56" cy="56" r="9"/>
+  <rect class="cls-2" x="17" y="56" width="66" height="34"/>
+  <rect class="cls-2" x="17" y="10" width="66" height="8"/>
+  <rect class="cls-2" x="17" y="16" width="6" height="40"/>
+  <rect class="cls-2" x="77" y="16" width="6" height="40"/>
+  <rect class="cls-7" x="28" y="66" width="44" height="24"/>
+  <rect class="cls-9" x="28" y="74" width="44" height="16"/>
+  <rect class="cls-3" x="48" y="18" width="4" height="10"/>
+  <polyline class="cls-10" points="46 42 43.6 35.6 49.2 30"/>
+  <polyline class="cls-10" points="54 42 56.4 35.6 50.8 30"/>
+  <circle class="cls-3" cx="50" cy="29" r="4"/>
+  <rect class="cls-4" x="38" y="64" width="4" height="9" rx="2" ry="2"/>
+  <circle class="cls-6" cx="40" cy="62.5" r="4.5"/>
+  <circle class="cls-9" cx="60.5" cy="70" r="3"/>
+</svg>

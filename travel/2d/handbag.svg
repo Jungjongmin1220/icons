@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ffc8a3;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        fill: #ffc8a3;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #f9b180;
+      }
+
+      .cls-4 {
+        fill: #ffcd4e;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M66.5,90h-33.01c-9.75,0-17.24-8.65-15.83-18.3l5.34-36.7h54l5.34,36.7c1.4,9.65-6.08,18.3-15.83,18.3Z"/>
+  <path class="cls-3" d="M23,35h54v18c0,5.52-4.48,10-10,10h-34c-5.52,0-10-4.48-10-10v-18h0Z"/>
+  <path class="cls-1" d="M33.02,35v-6.01c0-9.38,7.61-16.99,16.99-16.99h0c9.38,0,16.99,7.61,16.99,16.99v6.01"/>
+  <path class="cls-4" d="M50,72h0c-3.31,0-6-2.69-6-6v-11h12v11c0,3.31-2.69,6-6,6Z"/>
+</svg>

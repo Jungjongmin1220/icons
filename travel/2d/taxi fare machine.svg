@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #474747;
+      }
+
+      .cls-3 {
+        fill: #666;
+      }
+
+      .cls-5 {
+        fill: #f94239;
+        font-family: JalnanGothicTTF, 'Jalnan Gothic TTF';
+        font-size: 17px;
+      }
+
+      .cls-4 {
+        fill: #ccc;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="16" y="16" width="68" height="68" rx="10" ry="10"/>
+  <rect class="cls-3" x="16" y="53" width="68" height="6"/>
+  <rect class="cls-1" x="21" y="21" width="58" height="27" rx="5" ry="5"/>
+  <circle class="cls-4" cx="32" cy="70" r="6"/>
+  <circle class="cls-4" cx="50" cy="70" r="6"/>
+  <circle class="cls-4" cx="68" cy="70" r="6"/>
+  <text class="cls-5" transform="translate(26.5 41.34)"><tspan x="0" y="0">￥</tspan></text>
+</svg>

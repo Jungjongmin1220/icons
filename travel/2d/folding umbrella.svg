@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ebebeb;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2, .cls-6 {
+        fill: none;
+      }
+
+      .cls-6 {
+        stroke: #474747;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        fill: #f94239;
+      }
+
+      .cls-4 {
+        fill: #ccc;
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="cls-2" points="68 70 32 70 38 10 62 10 68 70"/>
+    </clipPath>
+  </defs>
+  <path class="cls-6" d="M50,68.12v12.76c0,3.87,3.13,7,7,7h0c3.87,0,7-3.13,7-7v-1.65"/>
+  <polygon class="cls-4" points="62 76 38 76 42 10 58 10 62 76"/>
+  <g class="cls-5">
+    <rect class="cls-1" x="3" y="4" width="94" height="84"/>
+    <rect class="cls-3" x="3" y="42" width="94" height="8"/>
+  </g>
+  <rect class="cls-4" x="45.5" y="6" width="9" height="4"/>
+</svg>
