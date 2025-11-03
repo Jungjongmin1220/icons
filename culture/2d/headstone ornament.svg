@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ebebeb;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #bbb;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #8b8b8b;
+      }
+
+      .cls-4 {
+        font-family: AppleSDGothicNeo-Bold-KSCpc-EUC-H, 'Apple SD Gothic Neo';
+        font-size: 20px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M50,10c2.48,0,4.5,2.02,4.5,4.5s-2.02,4.5-4.5,4.5-4.5-2.02-4.5-4.5,2.02-4.5,4.5-4.5M50,7c-4.14,0-7.5,3.36-7.5,7.5s3.36,7.5,7.5,7.5,7.5-3.36,7.5-7.5-3.36-7.5-7.5-7.5h0Z"/>
+  <path class="cls-2" d="M75,76H25v-32c0-13.81,11.19-25,25-25h0c13.81,0,25,11.19,25,25v32Z"/>
+  <rect class="cls-3" x="20" y="76" width="60" height="14"/>
+  <text class="cls-4" transform="translate(35.63 59.01)"><tspan x="0" y="0">RIP</tspan></text>
+</svg>

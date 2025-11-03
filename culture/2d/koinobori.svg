@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5f5f5;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #474747;
+      }
+
+      .cls-3 {
+        fill: #ffeab2;
+      }
+
+      .cls-4 {
+        fill: #fb6c65;
+      }
+
+      .cls-5 {
+        fill: #57a9ff;
+      }
+
+      .cls-6 {
+        fill: #f94239;
+      }
+
+      .cls-7 {
+        fill: #3396ff;
+      }
+
+      .cls-8 {
+        fill: #0fd166;
+      }
+
+      .cls-9 {
+        fill: #ffcd4e;
+      }
+
+      .cls-10 {
+        fill: #00bf56;
+      }
+    </style>
+  </defs>
+  <rect class="cls-9" x="18" y="15" width="4" height="70"/>
+  <polygon class="cls-7" points="85 39 31 39 31 15 85 15 73 27 85 39"/>
+  <polygon class="cls-6" points="77 63 31 63 31 43 77 43 66.78 53 77 63"/>
+  <polygon class="cls-10" points="71 85 31 85 31 67 71 67 62.11 76 71 85"/>
+  <circle class="cls-3" cx="20" cy="15" r="5"/>
+  <path class="cls-9" d="M29,19.83v14.34l-7.17-7.17,7.17-7.17M31,15l-12,12,12,12V15h0Z"/>
+  <path class="cls-9" d="M29,47.27v11.46l-6.88-5.73,6.88-5.73M31,43l-12,10,12,10v-20h0Z"/>
+  <path class="cls-9" d="M29,71v10l-6.67-5,6.67-5M31,67l-12,9,12,9v-18h0Z"/>
+  <rect class="cls-5" x="31" y="15" width="4" height="24"/>
+  <rect class="cls-4" x="31" y="43" width="4" height="20"/>
+  <rect class="cls-8" x="31" y="67" width="4" height="18"/>
+  <g>
+    <circle class="cls-1" cx="44" cy="27" r="5"/>
+    <circle class="cls-2" cx="44" cy="27" r="3"/>
+  </g>
+  <g>
+    <circle class="cls-1" cx="44" cy="53" r="5"/>
+    <circle class="cls-2" cx="44" cy="53" r="3"/>
+  </g>
+  <g>
+    <circle class="cls-1" cx="44" cy="76" r="5"/>
+    <circle class="cls-2" cx="44" cy="76" r="3"/>
+  </g>
+</svg>

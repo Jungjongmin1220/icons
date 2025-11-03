@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #474747;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #333;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="M68,53c0,17.67-8.06,32-18,32s-18-14.33-18-32"/>
+  <path class="cls-3" d="M63.07,87.81c-3.28-1.73-7.92-2.81-13.07-2.81s-9.79,1.08-13.08,2.81"/>
+  <g>
+    <ellipse class="cls-2" cx="50" cy="51.33" rx="40" ry="10.67"/>
+    <g>
+      <ellipse class="cls-1" cx="50" cy="49.46" rx="16.27" ry="5.42"/>
+      <polygon class="cls-1" points="66.27 49.46 33.73 49.46 37.07 14 62.93 14 66.27 49.46"/>
+    </g>
+  </g>
+  <circle class="cls-1" cx="50" cy="85" r="3"/>
+</svg>

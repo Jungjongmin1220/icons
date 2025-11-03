@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffb803;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #f94239;
+      }
+
+      .cls-3 {
+        fill: #ffcd4e;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-3" x="15" y="15" width="14.58" height="70"/>
+    <rect class="cls-1" x="29.58" y="15" width="14.58" height="60.67"/>
+    <rect class="cls-3" x="44.17" y="15" width="14.58" height="51.33"/>
+    <rect class="cls-1" x="58.75" y="15" width="13.13" height="42"/>
+    <rect class="cls-3" x="71.88" y="15" width="13.12" height="32.67"/>
+  </g>
+  <rect class="cls-2" x="15" y="25" width="70" height="8"/>
+</svg>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffeab2;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #004584;
+      }
+
+      .cls-3 {
+        fill: #d60a00;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="20" y="15" width="60" height="70"/>
+  <path class="cls-1" d="M74,21v58H26V21h48M76,19H24v62h52V19h0Z"/>
+  <g>
+    <rect class="cls-1" x="20" y="10" width="4" height="5"/>
+    <rect class="cls-1" x="76" y="10" width="4" height="5"/>
+    <rect class="cls-1" x="48" y="10" width="4" height="5"/>
+    <rect class="cls-1" x="34" y="10" width="4" height="5"/>
+    <rect class="cls-1" x="62" y="10" width="4" height="5"/>
+    <rect class="cls-1" x="69" y="10" width="4" height="5"/>
+    <rect class="cls-1" x="41" y="10" width="4" height="5"/>
+    <rect class="cls-1" x="27" y="10" width="4" height="5"/>
+    <rect class="cls-1" x="55" y="10" width="4" height="5"/>
+  </g>
+  <g>
+    <rect class="cls-1" x="20" y="85" width="4" height="5"/>
+    <rect class="cls-1" x="76" y="85" width="4" height="5"/>
+    <rect class="cls-1" x="48" y="85" width="4" height="5"/>
+    <rect class="cls-1" x="34" y="85" width="4" height="5"/>
+    <rect class="cls-1" x="62" y="85" width="4" height="5"/>
+    <rect class="cls-1" x="69" y="85" width="4" height="5"/>
+    <rect class="cls-1" x="41" y="85" width="4" height="5"/>
+    <rect class="cls-1" x="27" y="85" width="4" height="5"/>
+    <rect class="cls-1" x="55" y="85" width="4" height="5"/>
+  </g>
+  <g>
+    <path class="cls-2" d="M46,65c-2.21,0-4-1.79-4-4v-1h-1c-2.21,0-4-1.79-4-4v-12c0-2.21,1.79-4,4-4h1v-1c0-2.21,1.79-4,4-4h8c2.21,0,4,1.79,4,4v1h1c2.21,0,4,1.79,4,4v12c0,2.21-1.79,4-4,4h-1v1c0,2.21-1.79,4-4,4h-8Z"/>
+    <path class="cls-1" d="M54,36c1.65,0,3,1.35,3,3v2h2c1.65,0,3,1.35,3,3v12c0,1.65-1.35,3-3,3h-2v2c0,1.65-1.35,3-3,3h-8c-1.65,0-3-1.35-3-3v-2h-2c-1.65,0-3-1.35-3-3v-12c0-1.65,1.35-3,3-3h2v-2c0-1.65,1.35-3,3-3h8M54,34h-8c-2.76,0-5,2.24-5,5-2.76,0-5,2.24-5,5v12c0,2.76,2.24,5,5,5,0,2.76,2.24,5,5,5h8c2.76,0,5-2.24,5-5,2.76,0,5-2.24,5-5v-12c0-2.76-2.24-5-5-5,0-2.76-2.24-5-5-5h0Z"/>
+  </g>
+  <polygon class="cls-1" points="70 75 64 75 70 69 70 75"/>
+  <polygon class="cls-1" points="70 25 70 31 64 25 70 25"/>
+  <polygon class="cls-1" points="30 25 36 25 30 31 30 25"/>
+  <polygon class="cls-1" points="30 75 30 69 36 75 30 75"/>
+  <circle class="cls-1" cx="50" cy="50" r="6"/>
+</svg>
