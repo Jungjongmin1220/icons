@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ebebeb;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #f94239;
+      }
+
+      .cls-4 {
+        fill: #3396ff;
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle class="cls-2" cx="50" cy="50" r="40"/>
+    </clipPath>
+  </defs>
+  <g class="cls-5">
+    <path class="cls-4" d="M76.87,93.84c-19.53,19.53-51.18,19.53-70.71,0-19.53-19.53-19.53-51.18,0-70.71C25.69,3.6,96.4,74.31,76.87,93.84Z"/>
+    <path class="cls-3" d="M93.64,77.07c19.53-19.53,19.53-51.18,0-70.71-19.53-19.53-51.18-19.53-70.71,0s51.18,90.24,70.71,70.71Z"/>
+    <ellipse class="cls-1" cx="50" cy="50" rx="19" ry="40" transform="translate(-20.71 50) rotate(-45)"/>
+  </g>
+</svg>

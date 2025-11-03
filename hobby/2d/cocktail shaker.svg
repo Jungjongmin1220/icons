@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ebebeb;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #ccc;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="60.15" y="10.41" width="21.33" height="14.93" transform="translate(18.43 -33.01) rotate(30)"/>
+  <path class="cls-2" d="M48.62,94.96l-33.47-19.32,25.21-51.94,7.55-6.82c3.43-3.1,8.47-3.63,12.48-1.32l17.64,10.18c4.01,2.31,6.06,6.94,5.1,11.47l-2.13,9.95-32.38,47.8Z"/>
+  <rect class="cls-1" x="31.89" y="32.72" width="53.32" height="12.8" transform="translate(27.4 -24.04) rotate(30)"/>
+</svg>

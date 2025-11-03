@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2, .cls-6 {
+        fill: none;
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-3 {
+        fill: #6bbefc;
+      }
+
+      .cls-6 {
+        stroke: #ebebeb;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-4 {
+        fill: #004b8e;
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-2" d="M57.77,27.09c2.89-6.19.21-13.55-5.98-16.44s-13.55-.21-16.44,5.98L5.1,66.87l33.63,15.68,19.04-55.47Z"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <path class="cls-2" d="M91.5,37.07c1.77-6.6-2.15-13.38-8.75-15.15s-13.38,2.15-15.15,8.75l-21.07,54.73,35.85,9.61,9.12-57.93Z"/>
+    </clipPath>
+  </defs>
+  <g>
+    <path class="cls-6" d="M22.97,41.08l12.32-26.43c3.09-6.63,10.98-9.5,17.61-6.41h0c6.63,3.09,9.5,10.98,6.41,17.61l-12.7,27.23"/>
+    <g class="cls-5">
+      <rect class="cls-4" x="19.21" y="1.84" width="49.48" height="51.25" transform="translate(.48 55.69) rotate(-65)"/>
+      <rect class="cls-3" x="3.9" y="34.67" width="49.48" height="51.25" transform="translate(-38.11 60.77) rotate(-65)"/>
+      <circle class="cls-1" cx="46.56" cy="21.86" r="8.84"/>
+    </g>
+  </g>
+  <g>
+    <path class="cls-6" d="M59.66,56.89l7.55-28.17c1.89-7.07,9.16-11.27,16.23-9.37h0c7.07,1.89,11.27,9.16,9.37,16.23l-7.78,29.02"/>
+    <g class="cls-7">
+      <rect class="cls-4" x="53.21" y="14.22" width="49.48" height="51.25" transform="translate(19.29 104.82) rotate(-75)"/>
+      <rect class="cls-3" x="43.83" y="49.21" width="49.48" height="51.25" transform="translate(-21.46 121.7) rotate(-75)"/>
+      <circle class="cls-1" cx="79.55" cy="33.87" r="8.84"/>
+    </g>
+  </g>
+</svg>

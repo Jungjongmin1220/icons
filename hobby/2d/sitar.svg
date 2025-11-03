@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5f5f5;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #e57257;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #f5f5f5;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #ba5435;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="64.13" y="10.63" width="18.07" height="4.52" transform="translate(16.25 -34.86) rotate(30)"/>
+  <rect class="cls-2" x="60.74" y="16.5" width="18.07" height="4.52" transform="translate(18.73 -32.38) rotate(30)"/>
+  <circle class="cls-3" cx="40.69" cy="69.14" r="25.42"/>
+  <rect class="cls-3" x="53.97" y="3.61" width="11.3" height="65.52" transform="translate(26.17 -24.93) rotate(30)"/>
+  <rect class="cls-1" x="26.29" y="78.13" width="15.81" height="4.52" transform="translate(44.78 -6.33) rotate(30)"/>
+  <line class="cls-4" x1="32.88" y1="77.02" x2="66.21" y2="19.3"/>
+  <line class="cls-4" x1="37.77" y1="79.85" x2="71.1" y2="22.13"/>
+  <line class="cls-4" x1="35.33" y1="78.43" x2="68.65" y2="20.71"/>
+</svg>

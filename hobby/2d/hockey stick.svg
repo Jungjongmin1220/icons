@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #474747;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #ebebeb;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: #ffc8a3;
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-3" d="M53.58,75.92L13.03,5.67l-6.93,4,46.39,80.35.51-.29v.27h24.54c4.67,0,8.46-3.79,8.46-8.46h0c0-5.07-4.44-9.01-9.47-8.4l-22.94,2.78Z"/>
+    </clipPath>
+  </defs>
+  <g class="cls-5">
+    <rect class="cls-2" x="6" y="5" width="19" height="22" transform="translate(-5.92 9.89) rotate(-30)"/>
+    <rect class="cls-4" x="30.63" y="4.1" width="52.03" height="100.17" transform="translate(-19.5 35.58) rotate(-30)"/>
+    <rect class="cls-1" x="31.06" y="59.66" width="57.86" height="45.24" transform="translate(-33.1 41.02) rotate(-30)"/>
+  </g>
+</svg>

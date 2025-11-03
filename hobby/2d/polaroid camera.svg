@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #474747;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #ebebeb;
+      }
+
+      .cls-3 {
+        fill: #dcdcdc;
+      }
+
+      .cls-4 {
+        fill: #ff3000;
+      }
+
+      .cls-5 {
+        fill: #8cdd57;
+      }
+
+      .cls-6 {
+        fill: #ffcd4e;
+      }
+
+      .cls-7 {
+        fill: #4398dd;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="14" y="14" width="72" height="72" rx="10" ry="10"/>
+  <rect class="cls-4" x="44.6" y="29.3" width="3.6" height="56.7"/>
+  <rect class="cls-6" x="48.2" y="29.3" width="3.6" height="56.7"/>
+  <rect class="cls-5" x="51.8" y="29.3" width="3.6" height="56.7"/>
+  <path class="cls-3" d="M14,67.1h72v8.9c0,5.52-4.48,10-10,10H24c-5.52,0-10-4.48-10-10v-8.9h0Z"/>
+  <rect class="cls-1" x="23" y="74.3" width="54" height="3.6"/>
+  <g>
+    <path class="cls-7" d="M50,56c-7.77,0-14.1-6.33-14.1-14.1s6.33-14.1,14.1-14.1,14.1,6.33,14.1,14.1-6.33,14.1-14.1,14.1Z"/>
+    <path class="cls-1" d="M50,30.8c6.12,0,11.1,4.98,11.1,11.1s-4.98,11.1-11.1,11.1-11.1-4.98-11.1-11.1,4.98-11.1,11.1-11.1M50,24.8c-9.44,0-17.1,7.66-17.1,17.1s7.66,17.1,17.1,17.1,17.1-7.66,17.1-17.1-7.66-17.1-17.1-17.1h0Z"/>
+  </g>
+  <circle class="cls-4" cx="28.4" cy="58.1" r="4.5"/>
+</svg>

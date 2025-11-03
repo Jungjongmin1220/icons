@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5f5f5;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #474747;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-1);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-3" x="11.5" y="21.16" width="66" height="10" transform="translate(-6.26 16.8) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-3" x="15.26" y="36.75" width="66" height="10" transform="translate(-6.52 9.01) rotate(-10)"/>
+    </clipPath>
+  </defs>
+  <rect class="cls-2" x="18.56" y="36.46" width="66" height="48" transform="translate(-9.71 9.87) rotate(-10)"/>
+  <g>
+    <rect class="cls-2" x="11.5" y="21.16" width="66" height="10" transform="translate(-6.26 16.8) rotate(-20)"/>
+    <g class="cls-4">
+      <polygon class="cls-1" points="37.43 -.26 8.08 55.57 17.81 59.55 47.15 3.72 37.43 -.26"/>
+      <polygon class="cls-1" points="65.34 -10.42 35.99 45.41 45.72 49.39 75.06 -6.44 65.34 -10.42"/>
+      <polygon class="cls-1" points="93.24 -20.58 63.9 35.25 73.63 39.24 102.97 -16.59 93.24 -20.58"/>
+    </g>
+  </g>
+  <g>
+    <rect class="cls-2" x="15.26" y="36.75" width="66" height="10" transform="translate(-6.52 9.01) rotate(-10)"/>
+    <g class="cls-5">
+      <polygon class="cls-1" points="45.89 14.49 7.29 64.38 16.18 69.99 54.77 20.11 45.89 14.49"/>
+      <polygon class="cls-1" points="75.13 9.34 36.54 59.22 45.43 64.84 84.02 14.95 75.13 9.34"/>
+      <polygon class="cls-1" points="104.38 4.18 65.79 54.07 74.68 59.68 113.27 9.79 104.38 4.18"/>
+    </g>
+  </g>
+</svg>

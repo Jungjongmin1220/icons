@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #474747;
+      }
+
+      .cls-3 {
+        fill: #ebebeb;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-1" x="47" y="10.4" width="6" height="79.2" transform="translate(50 -20.71) rotate(45)"/>
+    <g>
+      <ellipse class="cls-2" cx="30.28" cy="86.28" rx="3.9" ry="11.7" transform="translate(-52.14 46.68) rotate(-45)"/>
+      <ellipse class="cls-2" cx="13.72" cy="69.72" rx="3.9" ry="11.7" transform="translate(-45.28 30.13) rotate(-45)"/>
+      <circle class="cls-2" cx="22" cy="78" r="3.12"/>
+    </g>
+    <g>
+      <ellipse class="cls-2" cx="86.28" cy="30.28" rx="3.9" ry="11.7" transform="translate(3.86 69.87) rotate(-45)"/>
+      <ellipse class="cls-2" cx="69.72" cy="13.72" rx="3.9" ry="11.7" transform="translate(10.72 53.32) rotate(-45)"/>
+      <circle class="cls-2" cx="78" cy="22" r="3.12"/>
+    </g>
+  </g>
+  <g>
+    <rect class="cls-1" x="47" y="10.4" width="6" height="79.2" transform="translate(120.71 50) rotate(135)"/>
+    <g>
+      <ellipse class="cls-2" cx="13.72" cy="30.28" rx="11.7" ry="3.9" transform="translate(-17.39 18.57) rotate(-45)"/>
+      <ellipse class="cls-2" cx="30.28" cy="13.72" rx="11.7" ry="3.9" transform="translate(-.84 25.43) rotate(-45)"/>
+      <circle class="cls-2" cx="22" cy="22" r="3.12"/>
+    </g>
+    <g>
+      <ellipse class="cls-2" cx="69.72" cy="86.28" rx="11.7" ry="3.9" transform="translate(-40.58 74.57) rotate(-45)"/>
+      <ellipse class="cls-2" cx="86.28" cy="69.72" rx="11.7" ry="3.9" transform="translate(-24.03 81.43) rotate(-45)"/>
+      <circle class="cls-2" cx="78" cy="78" r="3.12"/>
+    </g>
+  </g>
+  <rect class="cls-3" x="34" y="26" width="32" height="48" rx="10" ry="10"/>
+</svg>

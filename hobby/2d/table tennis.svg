@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5f5f5;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #ffc8a3;
+      }
+
+      .cls-4 {
+        fill: #f94239;
+      }
+
+      .cls-5 {
+        fill: #ffa161;
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-2" d="M88.23,58.85c-6.04,16.61-22.46,23.75-37.51,18.27-15.05-5.48-23.04-21.5-16.99-38.11,6.04-16.61,23.83-27.51,38.88-22.03s21.67,25.26,15.62,41.87Z"/>
+    </clipPath>
+  </defs>
+  <g>
+    <g class="cls-6">
+      <rect class="cls-4" x="26.29" y="12.52" width="74" height="66" transform="translate(-1.13 89.42) rotate(-70)"/>
+      <rect class="cls-3" x="27.83" y="71.5" width="48" height="11" transform="translate(29.46 -13.08) rotate(20)"/>
+    </g>
+    <rect class="cls-3" x="42.01" y="70.82" width="14" height="22" transform="translate(30.94 -11.83) rotate(20)"/>
+    <rect class="cls-5" x="46.01" y="70.82" width="6" height="22" transform="translate(30.94 -11.83) rotate(20)"/>
+  </g>
+  <circle class="cls-1" cx="21" cy="21" r="11"/>
+</svg>

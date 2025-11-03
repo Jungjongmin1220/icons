@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        stroke: #474747;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-4 {
+        fill: #ff7847;
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle class="cls-2" cx="50" cy="50" r="40"/>
+    </clipPath>
+  </defs>
+  <circle class="cls-4" cx="50" cy="50" r="40"/>
+  <g class="cls-1">
+    <circle class="cls-3" cx="-5.44" cy="29.82" r="40"/>
+    <circle class="cls-3" cx="105.44" cy="70.18" r="40"/>
+    <line class="cls-3" x1="65.67" y1="6.95" x2="34.33" y2="93.05"/>
+    <line class="cls-3" x1="93.05" y1="65.67" x2="6.95" y2="34.33"/>
+  </g>
+</svg>
