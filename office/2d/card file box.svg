@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ebebeb;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #bbb;
+      }
+
+      .cls-3 {
+        fill: #dcdcdc;
+      }
+
+      .cls-4 {
+        fill: #f94239;
+      }
+
+      .cls-5 {
+        fill: #5c5c5c;
+      }
+    </style>
+  </defs>
+  <rect class="cls-5" x="15" y="26" width="70" height="29"/>
+  <rect class="cls-2" x="27" y="30" width="46" height="20"/>
+  <path class="cls-3" d="M15,55h70v30c0,2.76-2.24,5-5,5H20c-2.76,0-5-2.24-5-5v-30h0Z"/>
+  <rect class="cls-1" x="22" y="35" width="56" height="20"/>
+  <path class="cls-4" d="M20,10h60c2.76,0,5,2.24,5,5v11H15v-11c0-2.76,2.24-5,5-5Z"/>
+</svg>

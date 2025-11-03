@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5c5c5c;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #ffcd4e;
+      }
+
+      .cls-3 {
+        fill: #707070;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-2" points="9.41 89.95 14.14 66.2 24.97 58.82 40.54 74.39 33.16 85.22 9.41 89.95"/>
+  <circle class="cls-4" cx="20.65" cy="78.71" r="3.67"/>
+  <rect class="cls-4" x="11.29" y="77.07" width="4.89" height="17.12" transform="translate(64.57 15.37) rotate(45)"/>
+  <path class="cls-3" d="M50.54,11.02h26.69c2.76,0,5,2.24,5,5v43.92h-36.69V16.02c0-2.76,2.24-5,5-5Z" transform="translate(43.8 -34.78) rotate(45)"/>
+  <rect class="cls-3" x="75.71" y="32.66" width="4.89" height="42.8" transform="translate(61.12 -39.43) rotate(45)"/>
+  <rect class="cls-3" x="86.08" y="35.95" width="4.89" height="8.56" transform="translate(54.38 -50.82) rotate(45)"/>
+  <rect class="cls-1" x="20.9" y="49.72" width="36.69" height="20.79" transform="translate(54 -10.14) rotate(45)"/>
+  <rect class="cls-2" x="27.04" y="52.27" width="36.69" height="3.41" transform="translate(51.46 -16.28) rotate(45)"/>
+</svg>

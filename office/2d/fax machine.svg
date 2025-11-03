@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #ebebeb;
+      }
+
+      .cls-3 {
+        fill: #bbb;
+      }
+
+      .cls-4 {
+        fill: #dcdcdc;
+      }
+
+      .cls-5 {
+        fill: #f94239;
+      }
+
+      .cls-6 {
+        fill: #36bb9c;
+      }
+
+      .cls-7 {
+        fill: #9b9b9b;
+      }
+
+      .cls-8 {
+        fill: #3396ff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" x="10" y="35" width="80" height="36"/>
+  <rect class="cls-7" x="50" y="41" width="35" height="16"/>
+  <rect class="cls-2" x="26" y="10" width="48" height="25"/>
+  <rect class="cls-3" x="10" y="70" width="80" height="20"/>
+  <rect class="cls-1" x="15" y="78" width="70" height="4"/>
+  <circle class="cls-5" cx="54" cy="63" r="4"/>
+  <circle class="cls-8" cx="81" cy="63" r="4"/>
+  <circle class="cls-6" cx="67.5" cy="63" r="4"/>
+</svg>

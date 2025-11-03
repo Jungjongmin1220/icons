@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-5 {
+        fill: #f5f5f5;
+      }
+
+      .cls-2 {
+        fill: #add4ff;
+      }
+
+      .cls-3 {
+        fill: #57a9ff;
+      }
+
+      .cls-5 {
+        font-family: Anton-Regular, Anton;
+        font-size: 11px;
+      }
+
+      .cls-4 {
+        fill: #3396ff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="20" y="78" width="60" height="12"/>
+  <g>
+    <rect class="cls-2" x="22.5" y="30.5" width="55" height="45"/>
+    <path class="cls-4" d="M75,33v40H25v-40h50M80,28H20v50h60V28h0Z"/>
+  </g>
+  <rect class="cls-3" x="33" y="10" width="34" height="18"/>
+  <text class="cls-5" transform="translate(38.54 23.38)"><tspan x="0" y="0">NEWS</tspan></text>
+  <rect class="cls-3" x="32" y="67" width="36" height="6"/>
+  <rect class="cls-3" x="32" y="60" width="36" height="6"/>
+  <rect class="cls-3" x="32" y="53" width="36" height="6"/>
+  <rect class="cls-1" x="66" y="45" width="5" height="16" rx="2.5" ry="2.5"/>
+</svg>

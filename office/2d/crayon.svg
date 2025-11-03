@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fc9994;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #f94239;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="36.33" y="8.91" width="32.03" height="64.06" transform="translate(27.48 -20.69) rotate(30)"/>
+  <rect class="cls-1" x="36.33" y="14.25" width="32.03" height="53.38" transform="translate(27.48 -20.69) rotate(30)"/>
+  <rect class="cls-2" x="45.94" y="22.17" width="32.03" height="4.27" transform="translate(20.45 -27.72) rotate(30)"/>
+  <rect class="cls-2" x="27.25" y="54.53" width="32.03" height="4.27" transform="translate(34.13 -14.04) rotate(30)"/>
+  <polygon class="cls-2" points="50.2 76.69 22.46 60.67 18.36 89.13 27.61 94.46 50.2 76.69"/>
+</svg>
